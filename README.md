@@ -23,4 +23,4 @@ $ pip install torch torchvision torchaudio
 $ pip install -r requirements.txt
 ```
 
-The code is coming soon
+The code is coming soon.
